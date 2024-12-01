@@ -181,7 +181,7 @@ export default function CustomCollection(props) {
         >
           <Text style={{ fontSize: 32, fontWeight: "bold" }}>{item.name}</Text>
           <Image
-            source={require("@/assets/images/hedis_logo.png")}
+            source={require("@/assets/images/cloudy_logo.png")}
             style={{ width: 40, height: 30 }}
           />
           <TouchableOpacity onPress={() => Speech.speak(item.name)}>

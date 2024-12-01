@@ -57,7 +57,7 @@ const selectImageAccount = () => {
     <View style={styles.container}>
       <View style={styles.top}>
           <Text style={styles.header}>Chọn một hình đại diện!</Text>
-          <Text style={styles.paragraph}>Chọn một hình đại diện cho người sẽ sử dụng ứng dụng HEDIS này.</Text>
+          <Text style={styles.paragraph}>Chọn một hình đại diện cho người sẽ sử dụng ứng dụng Cloudy này.</Text>
       </View>
       <View  style={styles.image_btn}>
           {

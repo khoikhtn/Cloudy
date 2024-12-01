@@ -112,7 +112,7 @@ export default function HomeScreen() {
                   }}
                 >
                   <Image
-                    source={require("@/assets/images/hedis_logo.png")}
+                    source={require("@/assets/images/cloudy_logo.png")}
                     style={{ width: 60, height: 60, objectFit: "contain" }}
                   />
                   <Text style={styles.text}>{item.name}</Text>

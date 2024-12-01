@@ -34,7 +34,7 @@ export default function WelcomeScreen({ navigation }) {
       <Animated.View style={{padding: ring1padding}}>
         <Image
           style={{width: hp(40), height: hp(40)}}
-          source={require('../../assets/images/hedis_logo.png')}
+          source={require('../../assets/images/cloudy_logo.png')}
         />
       </Animated.View>
       <View >

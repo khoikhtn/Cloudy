@@ -114,7 +114,7 @@ export default function FlashcardScreen() {
         </View>
         <Image
           style={{ width: hp(40), height: hp(40) }}
-          source={require("@/assets/images/hedis_logo.png")}
+          source={require("@/assets/images/cloudy_logo.png")}
         />
       </View>
     </View>

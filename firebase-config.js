@@ -10,9 +10,9 @@ import { getFirestore } from "firebase/firestore"
 // V1
 // const firebaseConfig = {
 //   apiKey: "AIzaSyCZXeMJ9tawQbCz03aJwsd94jDqa3Uyysw",
-//   authDomain: "hedis-uet.firebaseapp.com",
-//   projectId: "hedis-uet",
-//   storageBucket: "hedis-uet.appspot.com",
+//   authDomain: "cloudy.firebaseapp.com",
+//   projectId: "cloudy",
+//   storageBucket: "cloudy-.appspot.com",
 //   messagingSenderId: "344047895792",
 //   appId: "1:344047895792:web:c6ffa2913facc1a8612e35"
 // };

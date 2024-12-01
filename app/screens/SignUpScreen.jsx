@@ -58,7 +58,7 @@ export default function SignUpScreen() {
       <Animated.View style={{padding: ring1padding}}>
         <Image
           style={{width: hp(45), height: hp(45)}}
-          source={require('@/assets/images/hedis_logo.png')}
+          source={require('@/assets/images/cloudy_logo.png')}
         />
       </Animated.View>
       <View>
